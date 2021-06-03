@@ -1,1 +1,1 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=aki-lua87)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aki-lua87&row=2&column=3)]
